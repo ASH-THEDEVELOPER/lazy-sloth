@@ -1,0 +1,130 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito&effect=fire-animation);
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    background-image: url("images/red-flame-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gold;
+}
+
+a {
+    color: #2E94CC;
+}
+
+header{
+    background-color: #351b03;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 24px;
+    letter-spacing: 0.6px;
+    line-height: 30px;
+    opacity: 0.4;
+}
+
+
+article {
+    max-width: 850px;
+    margin: auto;
+    padding: 8px;
+    padding-top: 70px;
+}
+
+.Postauthor{
+    color: #6C6C6C;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.sharepostupper,.links-title-uppercase{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+
+}
+
+.sharepostupper span{
+    margin-right: 4px;
+}
+
+.sharepostupper img{
+    vertical-align: middle;
+}
+
+.links-title-uppercase {
+    margin-bottom: 12px;
+}
+
+.upper-case{
+    text-transform: uppercase;
+}
+
+.image1{
+    margin: 50px 0;
+    width: 680px;
+    height: auto;
+}
+
+h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 52px;
+    letter-spacing: 1.3px;
+    line-height: 58px
+}
+
+article p {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+#content-section {
+    max-width: 680px;
+    margin: auto;
+}
+
+iframe {
+    margin: 50px 0;
+    max-width: 100%;
+}
+
+footer {
+    background-color: #c92b45;
+    max-width: 680px;
+    margin: auto;
+    padding: 20px 15px;
+    margin-bottom: 70px;
+    border-radius: 25px;
+    opacity: 0.5;
+}
+
+footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+footer a {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+}
+
+footer ul li {
+    margin-bottom: 12px;
+}
+
+footer ul li:last-of-type {
+    margin-bottom: 0;
+}
+
+#relink{
+    color: rgba(206, 99, 11, 0.795);
+}
+
+/*.font-effect-fire-animation {
+    font-family: 'Nunito', sans-serif;
+    font-size: 10px;
+  }*/

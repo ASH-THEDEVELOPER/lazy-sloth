@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+    background-image: url("images/red-flame-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: gold;
+}
+
+.main{
+    display: flex;
+    width: 100px;
+    height: 100px;
+}
+
+.d1{
+    background-color: rgb(87, 148, 240);
+    width: 50px;
+    height: 200px;
+}
+
+.d2{
+    background-color: greenyellow;
+    width: 50px;
+    height: 200px;
+}
